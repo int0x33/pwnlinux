@@ -1,6 +1,6 @@
-> 本仓库收集Linux内核利用相关资料
->
-> This repository collects documents related to Linux kernel utilization
+# Linux
+
+## This repository collects documents related to Linux kernel utilization
 
 * [Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel](https://syst3mfailure.io/wall-of-perdition)
 * [Overwriting modprobe_path](https://lkmidas.github.io/posts/20210223-linux-kernel-pwn-modprobe/)
